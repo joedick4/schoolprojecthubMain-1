@@ -173,7 +173,7 @@
 	<div class="banner-wrap">
 		<section class="banner banner-v2">
 			<h5></h5>
-			<h1>Millions of Final Year Project<span> Topics & Materials Available</span></h1>
+			<h1>thousands of Final Year Project<span> Topics & Materials Available</span></h1>
 			<!--<p>We have thousands of Final Year Projects  Topics for you</p>-->
 			<!--<h5>Register now and start</h5>
 			<h1><span>Buying and Selling</span></h1>-->
